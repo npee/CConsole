@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_segments", "15_segments\15_segments.vcxproj", "{03D82383-7154-495E-A65E-1E4A0C3EBEBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,16 @@ Global
 		{632D5BEE-EFBF-46C1-A65A-044AAC6CBB89}.Release|x64.Build.0 = Release|Any CPU
 		{632D5BEE-EFBF-46C1-A65A-044AAC6CBB89}.Release|x86.ActiveCfg = Release|Any CPU
 		{632D5BEE-EFBF-46C1-A65A-044AAC6CBB89}.Release|x86.Build.0 = Release|Any CPU
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Debug|x64.ActiveCfg = Debug|x64
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Debug|x64.Build.0 = Debug|x64
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Debug|x86.Build.0 = Debug|Win32
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Release|x64.ActiveCfg = Release|x64
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Release|x64.Build.0 = Release|x64
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Release|x86.ActiveCfg = Release|Win32
+		{03D82383-7154-495E-A65E-1E4A0C3EBEBE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
